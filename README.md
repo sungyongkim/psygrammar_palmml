@@ -22,6 +22,7 @@
   - classification
     - [코세라:Machine Learning: Classification
 ](https://www.coursera.org/learn/ml-classification/home/info)
+    - [KNN & euclidian distance](https://docs.google.com/spreadsheets/d/1HtFizISWVt3zaBFLp_YNGHV0NPXt0xZQDIaL9WIeAzI/edit#gid=0)
 - **kaggle**
   - [kaggle](https://www.kaggle.com/)
   - [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
