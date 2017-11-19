@@ -34,7 +34,7 @@
 | 날짜      | 머신러닝                                     | 발표자  | 캐글                                      | 발표자  |
 | ------- | ---------------------------------------- | ---- | --------------------------------------- | ---- |
 | 11월 15일 | ch1.The Machine Learning Landscape,      | 이진호  | Titanic: Machine Learning from Disaster | 김성용  |
-| 11월 29일 | ch2. End-to-End Maching Learning Project | 남억수  |                                         | 이진호  |
+| 11월 29일 | ch2. End-to-End Maching Learning Project | 남억수  | [taxi](https://github.com/KaggleBreak/walkingkaggle/blob/master/taxi/Python/park/0906.%20Univariate%20Graph%20.ipynb)                                        | 이진호,김성용  |
 | 12월 13일 | ch3                                      | 지원자  |                                         |      |
 | 12월 27일 | ch4                                      | 지원자  |                                         |      |
 | 1월 10일  | ch5                                      | 지원자  |                                         |      |
