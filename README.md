@@ -19,6 +19,8 @@
 
 - **machinelearning**
   - [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/)
+  - classification
+   - [코세라](https://www.coursera.org/learn/ml-classification/home/info)
 - **kaggle**
   - [kaggle](https://www.kaggle.com/)
   - [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
@@ -27,6 +29,7 @@
   - [캐글뽀개기 그룹 자료들](http://kagglebreak.github.io/)
   - [캐글 뽀개기]( kagglebreak.github.io)
   - [캐글뽀개기 주말반(워킹캐글) 스터디 자료모음](https://github.com/KaggleBreak/walkingkaggle)
+
 
 ### TimeLine
 
